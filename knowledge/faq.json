@@ -1,0 +1,11 @@
+{
+  "page": "/faq",
+  "title": "FAQ — AgentVerse Academy",
+  "faq": [
+    { "question": "Do I need a coding background?", "answer": "Beginner tracks require no prior experience. Advanced tracks assume Python basics." },
+    { "question": "Are courses self-paced?", "answer": "Yes — plus live sessions on the Pro plan and cohort-based bootcamps." },
+    { "question": "Do I get a certificate?", "answer": "Every course grants a verifiable certificate on completion." },
+    { "question": "Can I get a refund?", "answer": "7-day no-questions refund on any individual course." },
+    { "question": "Do you offer job placement?", "answer": "We provide portfolio reviews, referrals and interview prep for Pro members." }
+  ]
+}

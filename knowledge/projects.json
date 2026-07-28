@@ -1,0 +1,16 @@
+{
+  "page": "/projects",
+  "title": "Student Projects — AgentVerse Academy",
+  "description": "Real AI agents, chatbots and automation projects built by our students.",
+  "projects": [
+    { "title": "AI Chatbot", "description": "Multi-turn support bot with memory + tools.", "tag": "Chat" },
+    { "title": "Customer Support Agent", "description": "Autonomous ticket triage & response.", "tag": "Agent" },
+    { "title": "Research Agent", "description": "Web research pipeline with structured outputs.", "tag": "Agent" },
+    { "title": "Coding Assistant", "description": "IDE-native pair programmer with RAG on your repo.", "tag": "Dev" },
+    { "title": "AI Email Agent", "description": "Drafts, triages and schedules on your behalf.", "tag": "Agent" },
+    { "title": "AI Resume Builder", "description": "Tailors resumes to job descriptions with LLMs.", "tag": "SaaS" },
+    { "title": "AI Content Generator", "description": "Blog + social pipeline with brand-tuned voice.", "tag": "Content" },
+    { "title": "AI Sales Agent", "description": "Outbound prospecting + follow-up automation.", "tag": "Agent" },
+    { "title": "AI Voice Assistant", "description": "Realtime voice agent for phone & web.", "tag": "Voice" }
+  ]
+}

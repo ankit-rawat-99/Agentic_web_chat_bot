@@ -1,0 +1,22 @@
+{
+  "page": "/courses",
+  "title": "All Courses — AgentVerse Academy",
+  "description": "Explore AI Agent, LLM, RAG, LangChain, CrewAI, AutoGen and automation courses.",
+  "courses": [
+    { "slug": "ai-agents-fundamentals", "title": "AI Agents Fundamentals", "category": "Agents", "difficulty": "Beginner", "duration": "6 weeks", "instructor": "Dr. Aisha Verma", "rating": 4.8, "price": 149, "students": 2841, "tagline": "Foundations of autonomous agents, tools & memory." },
+    { "slug": "agentic-ai-bootcamp", "title": "Agentic AI Bootcamp", "category": "Agents", "difficulty": "Advanced", "duration": "10 weeks", "instructor": "Marcus Chen", "rating": 4.9, "price": 399, "students": 1523, "tagline": "Ship production multi-agent systems end-to-end." },
+    { "slug": "langchain-masterclass", "title": "LangChain Masterclass", "category": "Frameworks", "difficulty": "Intermediate", "duration": "5 weeks", "instructor": "Priya Nair", "rating": 4.7, "price": 199, "students": 3210, "tagline": "Chains, agents, and retrieval with LangChain." },
+    { "slug": "crewai-development", "title": "CrewAI Development", "category": "Frameworks", "difficulty": "Intermediate", "duration": "4 weeks", "instructor": "Diego Ramirez", "rating": 4.8, "price": 179, "students": 1120, "tagline": "Design roles, tasks & crews with CrewAI." },
+    { "slug": "autogen-framework", "title": "AutoGen Framework", "category": "Frameworks", "difficulty": "Advanced", "duration": "5 weeks", "instructor": "Elena Petrova", "rating": 4.7, "price": 249, "students": 890, "tagline": "Multi-agent conversations with Microsoft AutoGen." },
+    { "slug": "rag-systems", "title": "RAG Systems", "category": "LLMs", "difficulty": "Intermediate", "duration": "6 weeks", "instructor": "Dr. Aisha Verma", "rating": 4.9, "price": 229, "students": 2650, "tagline": "Retrieval-augmented generation at scale." },
+    { "slug": "mcp-protocol", "title": "MCP Protocol", "category": "Agents", "difficulty": "Advanced", "duration": "3 weeks", "instructor": "Marcus Chen", "rating": 4.8, "price": 129, "students": 640, "tagline": "Model Context Protocol from spec to shipping." },
+    { "slug": "prompt-engineering", "title": "Prompt Engineering", "category": "LLMs", "difficulty": "Beginner", "duration": "3 weeks", "instructor": "Priya Nair", "rating": 4.6, "price": 79, "students": 5210, "tagline": "From zero-shot to reasoning-chain prompts." },
+    { "slug": "ai-automation-python", "title": "AI Automation with Python", "category": "Automation", "difficulty": "Intermediate", "duration": "6 weeks", "instructor": "Diego Ramirez", "rating": 4.7, "price": 179, "students": 1980, "tagline": "Automate workflows with Python & LLMs." },
+    { "slug": "multi-agent-systems", "title": "Multi-Agent Systems", "category": "Agents", "difficulty": "Advanced", "duration": "8 weeks", "instructor": "Elena Petrova", "rating": 4.9, "price": 349, "students": 720, "tagline": "Coordinate autonomous agents that collaborate." },
+    { "slug": "llm-engineering", "title": "LLM Engineering", "category": "LLMs", "difficulty": "Advanced", "duration": "10 weeks", "instructor": "Marcus Chen", "rating": 4.9, "price": 449, "students": 1310, "tagline": "Fine-tune, evaluate & deploy production LLMs." },
+    { "slug": "ai-saas-development", "title": "AI SaaS Development", "category": "AI Dev", "difficulty": "Intermediate", "duration": "8 weeks", "instructor": "Dr. Aisha Verma", "rating": 4.8, "price": 299, "students": 1470, "tagline": "Ship a real AI SaaS with billing & auth." },
+    { "slug": "ai-chatbot-development", "title": "AI Chatbot Development", "category": "AI Dev", "difficulty": "Beginner", "duration": "4 weeks", "instructor": "Priya Nair", "rating": 4.7, "price": 129, "students": 3400, "tagline": "Build chatbots for web, WhatsApp & Slack." },
+    { "slug": "ai-voice-agents", "title": "AI Voice Agents", "category": "Agents", "difficulty": "Intermediate", "duration": "5 weeks", "instructor": "Diego Ramirez", "rating": 4.8, "price": 219, "students": 980, "tagline": "Real-time voice agents with LLMs & TTS." },
+    { "slug": "ai-workflow-automation", "title": "AI Workflow Automation", "category": "Automation", "difficulty": "Beginner", "duration": "4 weeks", "instructor": "Elena Petrova", "rating": 4.6, "price": 99, "students": 2200, "tagline": "n8n, Zapier + LLMs for zero-code workflows." }
+  ]
+}

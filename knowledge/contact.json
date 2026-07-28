@@ -1,0 +1,11 @@
+{
+  "page": "/contact",
+  "title": "Contact — AgentVerse Academy",
+  "description": "Get in touch about courses, corporate training or AI consulting.",
+  "contact": {
+    "office": "500 Innovation Drive, San Francisco, CA",
+    "email": "hello@agentverse.academy",
+    "phone": "+1 (415) 555-0199",
+    "map_embed": "https://www.openstreetmap.org/export/embed.html?bbox=-122.42%2C37.77%2C-122.39%2C37.79&layer=mapnik"
+  }
+}

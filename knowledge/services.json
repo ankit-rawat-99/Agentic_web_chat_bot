@@ -1,0 +1,16 @@
+{
+  "page": "/services",
+  "title": "Services — AgentVerse Academy",
+  "description": "From upskilling teams to shipping custom AI agents — we partner with you end-to-end.",
+  "intro": "Enterprise-grade AI services: corporate training, consulting, custom agents and enterprise AI solutions.",
+  "services": [
+    { "title": "Corporate AI Training", "description": "Upskill engineering teams on Agentic AI, LLMs & production workflows." },
+    { "title": "AI Consulting", "description": "Strategy, architecture reviews and roadmaps for AI-native products." },
+    { "title": "Custom AI Agent Development", "description": "We design and ship bespoke agents integrated with your stack." },
+    { "title": "AI Automation Solutions", "description": "Automate research, sales, support and ops with LLM-powered workflows." },
+    { "title": "LLM Integration", "description": "Bring GPT, Claude, Llama & open-source models into your product." },
+    { "title": "Enterprise AI Solutions", "description": "Secure, scalable AI deployments with governance & observability." },
+    { "title": "AI Workshops", "description": "Hands-on private workshops for teams from beginners to advanced." }
+  ],
+  "cta": { "heading": "Ready to bring AI into your organization?", "text": "Book a discovery call. We'll map the fastest path to production.", "link": "/contact" }
+}

@@ -1,0 +1,25 @@
+[project]
+name = "5-web-chat-agent-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "fastapi>=0.139.2",
+    "fastembed>=0.8.0",
+    "flashrank>=0.2.10",
+    "langchain-google-genai>=4.3.1",
+    "langchain-google-vertexai>=3.2.4",
+    "langchain-nvidia-ai-endpoints>=1.4.3",
+    "langchain-openai>=1.4.0",
+    "langgraph>=1.2.9",
+    "logfire[fastapi,requests]>=4.38.0",
+    "nemoguardrails>=0.23.0",
+    "openai>=2.46.0",
+    "portkey-ai>=2.3.4",
+    "python-dotenv>=1.2.2",
+    "qdrant-client>=1.18.0",
+    "sentence-transformers>=5.6.0",
+    "streamlit>=1.60.0",
+    "uvicorn>=0.51.0",
+]

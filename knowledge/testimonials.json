@@ -1,0 +1,10 @@
+{
+  "page": "/",
+  "title": "Testimonials — AgentVerse Academy",
+  "testimonials": [
+    { "name": "Sarah Kim", "role": "ML Engineer @ Stripe", "quote": "The Agentic AI Bootcamp took me from experimenting to shipping production multi-agent systems in weeks." },
+    { "name": "Rahul Mehta", "role": "Founder, Nimbus AI", "quote": "Best AI curriculum I've seen. The MCP + RAG modules alone were worth 10× the price." },
+    { "name": "Anna Novak", "role": "AI Lead @ Siemens", "quote": "We upskilled our entire team via corporate training. Practical, current, and production-focused." },
+    { "name": "David Ochieng", "role": "Indie Developer", "quote": "I launched my first AI SaaS after taking three courses here. The projects are gold." }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "page": "/about",
+  "title": "About — AgentVerse Academy",
+  "description": "Meet the team teaching the next generation of AI Agent builders.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "content": "AgentVerse Academy trains students and professionals in cutting-edge AI: agents, LLMs, RAG, automation and AI-powered software development — with a relentless focus on shipping."
+    },
+    {
+      "heading": "Mission",
+      "content": "Make world-class AI agent education accessible to everyone."
+    },
+    {
+      "heading": "Vision",
+      "content": "A world where every developer can build production AI systems."
+    },
+    {
+      "heading": "Values",
+      "content": "Practitioner-first. Ship-focused. Radically transparent."
+    },
+    {
+      "heading": "Our journey",
+      "content": [
+        { "year": "2022", "title": "Founded", "description": "Started as a small cohort teaching prompt engineering." },
+        { "year": "2023", "title": "5,000 students", "description": "Launched RAG, LangChain and LLM engineering tracks." },
+        { "year": "2024", "title": "Agentic AI Bootcamp", "description": "Our flagship agent bootcamp launched to 4.9★ reviews." },
+        { "year": "2026", "title": "10,000+ learners", "description": "Now training engineers at 200+ companies worldwide." }
+      ]
+    },
+    {
+      "heading": "Trainers",
+      "content": [
+        { "name": "Dr. Aisha Verma", "role": "Head of Curriculum · ex-DeepMind" },
+        { "name": "Marcus Chen", "role": "Agentic AI Lead · ex-OpenAI" },
+        { "name": "Priya Nair", "role": "LLM Engineering · ex-HuggingFace" },
+        { "name": "Diego Ramirez", "role": "AI Automation · ex-Zapier" },
+        { "name": "Elena Petrova", "role": "Multi-Agent Systems · ex-Microsoft" },
+        { "name": "James Okafor", "role": "AI SaaS · Serial Founder" }
+      ]
+    },
+    {
+      "heading": "Why learn with us",
+      "content": [
+        "Industry-recognized credentials on every completion.",
+        "Real projects, current stack, practitioner instructors.",
+        "10,000+ builders sharing agents, jobs and reviews."
+      ]
+    }
+  ],
+  "faq": [
+    { "question": "Do I need a coding background?", "answer": "Beginner tracks require no prior experience. Advanced tracks assume Python basics." },
+    { "question": "Are courses self-paced?", "answer": "Yes — plus live sessions on the Pro plan and cohort-based bootcamps." },
+    { "question": "Do I get a certificate?", "answer": "Every course grants a verifiable certificate on completion." },
+    { "question": "Can I get a refund?", "answer": "7-day no-questions refund on any individual course." },
+    { "question": "Do you offer job placement?", "answer": "We provide portfolio reviews, referrals and interview prep for Pro members." }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "page": "/pricing",
+  "title": "Pricing — AgentVerse Academy",
+  "description": "Simple, transparent pricing for learners and teams.",
+  "plans": [
+    {
+      "name": "Starter",
+      "price": "$01",
+      "period": "forever",
+      "description": "Get started with foundational courses.",
+      "features": ["Beginner courses", "Community access", "Basic certificates", "Weekly newsletter"]
+    },
+    {
+      "name": "Pro",
+      "price": "$49",
+      "period": "/month",
+      "description": "For serious learners shipping AI agents.",
+      "features": ["All courses", "Live sessions", "Real projects", "Mentor support", "Verifiable certificates", "Career reviews"],
+      "highlight": true
+    },
+    {
+      "name": "Enterprise",
+      "price": "Custom",
+      "period": "",
+      "description": "For teams and organizations at scale.",
+      "features": ["Team training", "Custom curriculum", "Dedicated success mgr", "AI consulting hours", "SSO & analytics", "Priority support"]
+    }
+  ]
+}

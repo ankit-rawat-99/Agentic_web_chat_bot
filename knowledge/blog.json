@@ -1,0 +1,14 @@
+{
+  "page": "/blog",
+  "title": "Blog — AgentVerse Academy",
+  "description": "AI news, tutorials, agent guides and career insights.",
+  "categories": ["AI News", "AI Agents", "LLM", "Automation", "Tutorials", "Career"],
+  "posts": [
+    { "category": "AI Agents", "title": "Building your first multi-agent crew with CrewAI", "date": "Jul 12, 2026", "excerpt": "A step-by-step guide to designing roles, tasks and delegation." },
+    { "category": "LLM", "title": "RAG in 2026: what actually works in production", "date": "Jul 5, 2026", "excerpt": "From chunking strategies to reranking and evaluation." },
+    { "category": "Automation", "title": "Zero-code AI workflows with n8n and OpenAI", "date": "Jun 28, 2026", "excerpt": "Automate research, sales and support with a visual builder." },
+    { "category": "Tutorials", "title": "MCP Protocol for beginners", "date": "Jun 20, 2026", "excerpt": "Understand Model Context Protocol and ship your first server." },
+    { "category": "Career", "title": "How to break into AI engineering in 90 days", "date": "Jun 12, 2026", "excerpt": "The exact roadmap our top students followed." },
+    { "category": "AI News", "title": "The state of agent frameworks: mid-2026", "date": "Jun 3, 2026", "excerpt": "LangGraph, CrewAI, AutoGen and Agno compared." }
+  ]
+}
